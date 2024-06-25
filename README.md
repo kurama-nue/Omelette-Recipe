@@ -33,7 +33,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/kurama-nue/Omelette-Recipe]
+- Solution URL: [https://github.com/kurama-nue/Omelette-Recipe.git]
 - Live Site URL: [Add live site URL here]
 
 ## My process
